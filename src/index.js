@@ -346,10 +346,5 @@ document.addEventListener('DOMContentLoaded', function() {
         featuresDropdown.style.display = featuresDropdown.style.display === 'block' ? 'none' : 'block';
     });
     
-    // Close features menu when clicking elsewhere
-    document.addEventListener('click', function(e) {
-        if (!featuresBtn.contains(e.target) {
-            featuresDropdown.style.display = 'none';
-        }
-    });
+    
 });

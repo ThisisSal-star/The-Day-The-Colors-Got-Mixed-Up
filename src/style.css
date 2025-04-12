@@ -52,7 +52,7 @@ body {
 .cover-image {
     width: 200px;
     height: 200px;
-    background-color: white;
+    background-color: rgb(207, 68, 207);
     border-radius: 50%;
     display: flex;
     justify-content: center;
@@ -63,9 +63,9 @@ body {
 }
 
 .cover-image img {
-    width: 80%;
-    height: 80%;
-    object-fit: contain;
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
 }
 
 .start-button {
@@ -123,8 +123,8 @@ body {
 
 .page-image {
     width: 100%;
-    max-height: 400px;
-    object-fit: contain;
+    max-height: 700px;
+    object-fit: cover;
     margin-bottom: 20px;
     border-radius: 5px;
     box-shadow: 0 5px 15px rgba(0,0,0,0.1);
