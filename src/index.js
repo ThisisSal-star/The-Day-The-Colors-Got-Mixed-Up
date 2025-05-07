@@ -38,7 +38,7 @@ document.addEventListener('DOMContentLoaded', function() {
     
     // Page narration texts
     const pageNarrations = [
-        "In the happy town of Colorville, everything was bright and beautiful. The houses were red, the trees were green, and the flowers bloomed in every color of the rainbow!",
+        "In the happy town of Colorville, everything was bright and beautiful. The houses were all shades of colors, the trees were green, and the flowers bloomed in every color of the rainbow!",
         "The children of Colorville loved to play outside. They would run through the fields, climb trees, and paint pictures with all the colors they could find.",
         "But one sunny morning, a little paintbrush named Benny woke up feeling very mischievous. What if I mixed up all the colors? he thought with a giggle.",
         "Benny dipped himself into the pots of paint and swirled them together. Red mixed with blue, yellow mixed with green, and soon, a big, colorful mess was made!",
